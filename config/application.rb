@@ -3,6 +3,7 @@
 require_relative 'boot'
 
 require 'rails/all'
+require 'nulldb'
 require_relative 'issue_2656_workaround_for_rails_issue_33600'
 
 # DO NOT REMOVE THIS LINE - see issue #2037
